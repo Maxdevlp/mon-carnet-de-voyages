@@ -1,5 +1,5 @@
 // ─── URL de l'API (notre fichier PHP) ──────────────────────────
-const API_URL = "http://localhost/carnet-voyages/api/articles.php";
+const API_URL = "http://localhost/mon-carnet-de-voyages/api/articles.php";
 
 // ─── FONCTION 1 : Charger et afficher les articles ──────────────
 async function chargerArticles() {
